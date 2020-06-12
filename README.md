@@ -1,6 +1,6 @@
 # Cape-Stone
 
-                                                      Predicting Airbnb Rental Price.
+                                                   Predicting Airbnb Rental Price.
 
 Airbnb is a internet marketplace for short-term home and apartment rentals. 
 It allows you to, for example, rent out your home for a week while you’re away, or rent out your spare bedroom to travelers. 
